@@ -1,0 +1,10 @@
+1. First class functions are simply values. Functions are just another type of object
+
+2. Higher order functions are functions that receives another function as an argument, that returns a new function or both. This is only possible because of the existence of first class functions.
+
+3. The function that calls another function is called the higher order function 
+while the called function is called the call back function
+
+4. Returning functions from other functions is made possible by the Javascript property called Closures
+
+5. 
